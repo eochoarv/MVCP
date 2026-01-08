@@ -22,4 +22,3 @@ git clone git@github.com:eochoarv/MVCP.git
 ## Usage
 
 Please refer to [usage_example.ipynb](usage_example.ipynb) for basic usage. 
-Numerical experiments can be found in [numerical_experiments.ipynb](numerical_experiments.ipynb).
